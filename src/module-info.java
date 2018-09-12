@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author marvinkruger
+ *
+ */
+module javaProject {
+}
