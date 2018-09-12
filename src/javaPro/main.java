@@ -33,5 +33,6 @@ public class main {
 		
 		//Methode zur Ausgabe auf der Konsole
 		System.out.println(zahlenVergleich);
+		System.out.println("Hello World");
 	}
 }
